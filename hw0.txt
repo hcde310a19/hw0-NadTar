@@ -1,3 +1,29 @@
 # Description of your program (part 7)
+Take input file path from user
+
+Check to see if path exists. If does not throw an error informing the user of invalid input
+
+If it does exists, open the file.
+
+Declare a variable representing the word count
+
+Declare a variable representing the current character being scanned
+
+While the character is whitespace, move on to the next character in the document
+
+When it is not whitespace increment the count by one
+
+While the character is not whitespace do nothing until it is whitespace
+
+Repeat this loop until there are no more characters in the process
+
+Output the count
 
 # Reflection on writing your program (part 8)
+
+As a student with some programming experience, this excercise was harder than I expected it to be. I actually found
+describing programming instructions in English harder than typing them out as code. So I wrote a basic program in code
+in order to understand how to describe it English. Overall it was a satisfying assignment
+
+I'd like to get comfortable coding in Python through this course as it is a new programming paradigm for me. I would
+also like to work on a project of my choosing in Python that I can add to my portfolio.
